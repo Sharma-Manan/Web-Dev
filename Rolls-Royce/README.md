@@ -34,5 +34,5 @@ Optimized for touch and smaller screens
 
 🚀 How to Run Locally
 Download or clone the project:
-git clone https://github.com/manan-25/RollsRoyce-Website.git
+git clone https://github.com/Sharma-Manan/RollsRoyce-Website.git
 Open the index.html file in your browser.
