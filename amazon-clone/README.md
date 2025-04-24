@@ -15,7 +15,7 @@ A simple Amazon homepage clone built using **HTML** and **CSS** to replicate the
 - **Font Awesome**: For icons in the navigation bar and footer.
 
 ## Live Preview
-👉 [Live Demo](https://manan-25.github.io/Web-Dev/amazon-clone/)
+👉 [Live Demo](https://Sharma-Manan.github.io/Web-Dev/amazon-clone/)
 
 ## Screenshots
 *Insert a screenshot of your webpage here (optional).*
